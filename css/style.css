@@ -1,0 +1,123 @@
+body, html{
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.fs-img1{
+    background-image: url("/img/real%20coral%20reef.jpg");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img2{
+    background-image: url("/img/CR%20dead.jpg");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.padding{
+    padding-top: 1%
+}
+
+.fs-img3{
+    background-image: url("/img/jellyfish.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blue-transparent{
+    background-color: rgba(33, 150, 243, 0.5);
+}
+
+.black-transparent{
+    background-color: rgba(0, 0, 0, 0.65);
+}
+
+.big1 {
+    font-size: 13vh;
+}
+
+.archivo{
+    font-family: 'Archivo', sans-serif;
+}
+
+.my-grey,
+.my-hover-grey:hover {
+    color: #fff!important;
+    background-color: #999966!important
+}
+
+.button-color{
+    background-color: rgba(242, 242, 242, 0.40);
+}
+
+.my-black,
+.my-hover-black:hover {
+    color: #fff!important;
+    background-color: #333333!important
+}
+
+/*Full screen vid*/
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.0);
+    color: #f1f1f1;
+    padding: 20px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 4vh;
+}
+
+/* Style the button used to pause/play the video */
+#myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+#myBtn:hover {
+    background: #ddd;
+    color: black;
+}
+
+.my-h1 {
+    font-size: 7vh;
+    font-weight: 900
+}
+
+.my-h1two {
+    font-size: 13vh;
+    font-weight: 900;
+}
+
+.my-green,
+.my-green:hover {
+    color: #000!important;
+    background-color: #b3ffb3!important
+}
+
+.font-change{
+    font-family: 'Poppins', sans-serif;
+}

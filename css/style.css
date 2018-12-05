@@ -121,3 +121,114 @@ body, html{
 .font-change{
     font-family: 'Poppins', sans-serif;
 }
+
+.coral {
+    font-size: 5vh;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.top {
+    font-size: 3vh;
+}
+
+.bigger{
+    font-size: 9vh;
+}
+
+.bigger2{
+    font-size: 7vh;
+}
+
+.bigger3{
+    font-size: 4vh;
+}
+
+.bigger4{
+    font-size: 7vh;
+}
+
+.bigger5{
+    font-size: 6vh;
+}
+
+.fs-img5{
+    background-image: url("/img/14.1.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img6{
+    background-image: url("/img/14.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img7{
+    background-image: url("/img/14.3.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img8{
+    background-image: url("/img/14.6.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img9{
+    background-image: url("/img/14.7.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img10{
+    background-image: url("/img/14B.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img11{
+    background-image: url("/img/14.5.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img12{
+    background-image: url("/img/14.4.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fs-img13{
+    background-image: url("/img/14C.png");
+    width: inherit;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
